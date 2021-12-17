@@ -1,22 +1,24 @@
-# Место на «React» <img src="https://user-images.githubusercontent.com/86494748/143664099-49cf6a97-81d0-42f4-97ba-c2024feea2c9.gif" width="28px" alt="React"> 
+# Место на «React» с авторизацией и регистрацией <img src="https://user-images.githubusercontent.com/86494748/143664099-49cf6a97-81d0-42f4-97ba-c2024feea2c9.gif" width="28px" alt="React"> 
 ### *Учебный проект от [Яндекс.Практикум](https://practicum.yandex.ru/web/)*
 
 ## Описание проекта
 Место - это интерактивная страница, на которой пользователи могут делиться фотографиями, удалять их и ставить лайки. 
 
-Данный учебный проект создан в рамках прохождения 4-11 спринтов курса Веб-разработчик. Цель проекта закрепить на практике пройденный учебный материал, в который входят:
+Данный учебный проект создан в рамках прохождения 4-12 спринтов курса Веб-разработчик. Цель проекта закрепить на практике пройденный учебный материал, в который входят:
 
 - Портирование веб-приложения на «Реакт»;
 - Применение декларативного подхода;
 - Создание функциональных компонентов;
-- Использование «Реакт»-хуков.
+- Использование «Реакт»-хуков;
+- Работа с localStorage и JWT-токеном.
 
 ## Функционал:
 
 - Редактирование аватара и профиля;
 - Добавление фотографии и лайков;
 - Удаление фотографии и лайков;
-- Открытие фотографии в полном размере.
+- Открытие фотографии в полном размере;
+- Авторизация и регистрация пользователей.
 
 ## Стек технологий:
 
@@ -46,7 +48,7 @@
 
 Клонировать репозиторий:
 
-    git clone https://github.com/ia-stepanov/mesto-react.git
+    git clone https://github.com/ia-stepanov/react-mesto-auth.git
 
 Установить зависимости:
 
@@ -69,7 +71,8 @@
 - [Макет 4](https://www.figma.com/file/2cn9N9jSkmxD84oJik7xL7/JavaScript.-Sprint-4);
 - [Макет 5](https://www.figma.com/file/bjyvbKKJN2naO0ucURl2Z0/JavaScript.-Sprint-5);
 - [Макет 6-7](https://www.figma.com/file/kRVLKwYG3d1HGLvh7JFWRT/JavaScript.-Sprint-6);
-- [Макет 9](https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript-9-sprint).
+- [Макет 9](https://www.figma.com/file/PSdQFRHoxXJFs2FH8IXViF/JavaScript-9-sprint);
+- [Макет 12](https://www.figma.com/file/5H3gsn5lIGPwzBPby9jAOo/JavaScript.-Sprint-12).
 
 ## Чеклисты Проектной работы:
 
@@ -80,14 +83,15 @@
 - [Чеклист 8](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-8/index.html);
 - [Чеклист 9](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-9/index.html);
 - [Чеклист 10](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-10/index.html);
-- [Чеклист 11](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-11/index.html).
+- [Чеклист 11](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-11/index.html);
+- [Чеклист 12](https://code.s3.yandex.net/web-developer/checklists/new-program/checklist-12/index.html).
 
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![mesto-react](https://user-images.githubusercontent.com/86494748/143663354-f7a10773-c21f-4347-aede-92c69976a679.jpg)](https://ia-stepanov.github.io/mesto-react/)
+[![mesto-react](https://user-images.githubusercontent.com/86494748/143663354-f7a10773-c21f-4347-aede-92c69976a679.jpg)](https://ia-stepanov.github.io/react-mesto-auth/)
 
 </details>
 
 ## Ссылка на сайт:
-https://ia-stepanov.github.io/mesto-react/
+https://ia-stepanov.github.io/react-mesto-auth/
