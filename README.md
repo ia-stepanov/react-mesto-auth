@@ -1,4 +1,4 @@
-# Место на «React» с авторизацией и регистрацией <img src="https://user-images.githubusercontent.com/86494748/143664099-49cf6a97-81d0-42f4-97ba-c2024feea2c9.gif" width="28px" alt="React"> 
+# Место на «React» с авторизацией и регистрацией 
 ### *Учебный проект от [Яндекс.Практикум](https://practicum.yandex.ru/web/)*
 
 ## Описание проекта
@@ -10,7 +10,7 @@
 - Применение декларативного подхода;
 - Создание функциональных компонентов;
 - Использование «Реакт»-хуков;
-- Работа с localStorage и JWT-токеном.
+- Работа c локальным хранилищем JWT-токеном.
 
 ## Функционал:
 
@@ -89,7 +89,9 @@
 ## Скриншот:
 <details><summary><b>Развернуть</b></summary>
 
-[![mesto-react](https://user-images.githubusercontent.com/86494748/143663354-f7a10773-c21f-4347-aede-92c69976a679.jpg)](https://ia-stepanov.github.io/react-mesto-auth/)
+[![react-mesto-auth-1](https://user-images.githubusercontent.com/86494748/146587920-5a90fa4f-9e7b-4092-8842-e525a324578e.jpg)](https://ia-stepanov.github.io/react-mesto-auth/)
+[![react-mesto-auth-2](https://user-images.githubusercontent.com/86494748/146587923-e324573f-fb43-4cfb-9b41-ec64308c2524.jpg)](https://ia-stepanov.github.io/react-mesto-auth/)
+[![react-mesto-auth-3](https://user-images.githubusercontent.com/86494748/146587932-a66ad3f4-82d2-47bd-a278-a4aaf44773eb.jpg)](https://ia-stepanov.github.io/react-mesto-auth/)
 
 </details>
 
